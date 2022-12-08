@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.section {
+  /* background-image: linear-gradient(50deg, #3a3d40 0%, #181719 100%); */
+  background-image: linear-gradient(50deg, #536464 0%, #39af66 100%);
+  height:95vh; 
+}
+
+.section-2 {
+  /* background-image: linear-gradient(150deg, #403a3a 0%, rgb(148, 6, 1) 180%); */
+  background-image: linear-gradient(190deg, #545c61 0%, rgba(4, 70, 252, 0.801) 200%);
+  height: 100vh;
+}
+
+.section-3 {
+  /* background-image: linear-gradient(150deg, #292523 0%, #181719 100%); */
+  background-image: linear-gradient(155deg, #755d57 0%, #9c0505 100%);
+  height: 90vh;
+}
+
+.section-4 {
+  /* background-image: linear-gradient(150deg, #403a3a 0%, rgb(148, 6, 1) 180%); */
+  background-image: linear-gradient(150deg, #5d5f57 0%, rgba(252, 235, 4, 0.801) 180%);
+  height: 110vh;
+}
+
+/* presentacion */
+
+.precentacion {
+  display: flex;
+  padding-top: 17rem;
+  align-items: center;
+  flex-direction: column;
+  color: azure;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* LoginPage  */
+
+.contenedor {
+  /* background-color: rgb(119, 165, 117); */
+  background-image: linear-gradient(50deg, #536464 0%, #39af66 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 4rem;
+}
+
+.contenedor-style {
+  background-color: rgba(255, 255, 255, 0.836);
+  padding: 3rem;
+  width: 26rem;
+  border-radius: .5rem;
+}
+
+.titulo {
+  margin: 1rem;
+  color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+}
+
+/* skils */
+
+.contenedor-skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 70vh;
+  padding: 4rem;
+}
+
+.contenedor-style-skills {
+  background-color: rgba(29, 28, 28, 0.836);
+  color: rgba(255, 255, 255, 0.815);
+  padding: 3rem;
+  width: 80rem;
+  border-radius: .5rem;
+}
+
+.card {
+  background-color: rgba(36, 36, 148, 0.315);
+}
+
+.card-text {
+  color: #5c6363;
+}
+.card-title{
+  color: rgb(187, 186, 186);
+}
+
+/* contacto */
+
+.contacto-a {
+  display: flex;
+  gap: 8rem;
+  padding-top: 2rem;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  color: rgb(255, 255, 255);
+}
