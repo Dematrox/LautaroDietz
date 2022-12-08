@@ -6,6 +6,7 @@ import { Proyects } from '../components/Proyects';
 import { Skills } from '../components/Skills';
 
 export const Portafolio = () => {
+
   return (
     <>
       <div className='animate__animated animate__fadeInDown slow'>
