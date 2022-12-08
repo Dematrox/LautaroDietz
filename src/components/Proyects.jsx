@@ -18,7 +18,7 @@ export const Proyects = () => {
             <div class="carousel-item active">
               <a href="https://dematrox.github.io/HeroesApp/">
                 <div class="text-center">
-                    <img src="../fotos/HeroesApp.jpg" class="text-center rounded" alt="..."/>
+                    <img src="../public/fotos/HeroesApp.jpg" class="text-center rounded" alt="..."/>
                 </div>
                 <div class="carousel-caption d-none d-md-block">
                   <h5>HeroesApp</h5>
@@ -29,7 +29,7 @@ export const Proyects = () => {
             <div class="carousel-item">
               <a href="https://dematrox.github.io/blonew">
                 <div class="text-center">
-                    <img src="../fotos/blonew.jpg" class="text-center rounded" alt="..."/>
+                    <img src="../public/fotos/blonew.jpg" class="text-center rounded" alt="..."/>
                 </div>
                 <div class="carousel-caption d-none d-md-block">
                   <h5>Blonew</h5>
@@ -40,7 +40,7 @@ export const Proyects = () => {
             <div class="carousel-item">
               <a href="https://dematrox.github.io/GifsApp/">
                 <div class="text-center">
-                    <img src="../fotos/GifsApp.jpg" class="text-center rounded" alt="..."/>
+                    <img src="../public/fotos/GifsApp.jpg" class="text-center rounded" alt="..."/>
                 </div>
                 <div class="carousel-caption d-none d-md-block">
                   <h5>GifsApp</h5>
@@ -51,7 +51,7 @@ export const Proyects = () => {
             <div class="carousel-item">
               <a href="https://dematrox.github.io/RecuedosApp/">
                 <div class="text-center">
-                    <img src="../fotos/JournalApp.jpg" class="text-center rounded" alt="..."/>
+                    <img src="../public/fotos/JournalApp.jpg" class="text-center rounded" alt="..."/>
                 </div>
                 <div class="carousel-caption d-none d-md-block">
                   <h5>JournalApp</h5>
